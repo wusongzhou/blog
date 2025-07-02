@@ -3,6 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2025-07-02T09:38:09+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -14,7 +15,11 @@
                 href="http://localhost:1313/"
                 />
   </url><url>
+    <loc>http://localhost:1313/p/brighten-sql/</loc>
+    <lastmod>2025-07-02T09:38:09+08:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-07-02T09:38:09+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -26,7 +31,17 @@
                 href="http://localhost:1313/categories/"
                 />
   </url><url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2025-07-02T09:38:09+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/sql/</loc>
+    <lastmod>2025-07-02T09:38:09+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/sql/</loc>
+    <lastmod>2025-07-02T09:38:09+08:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-07-02T09:38:09+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
