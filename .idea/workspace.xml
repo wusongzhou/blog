@@ -4,24 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9135633-cf74-4b4f-9422-0752c7adea04" name="更改" comment="feat:更改配置">
-      <change afterPath="$PROJECT_DIR$/assets/icons/brand-bilibili.svg" afterDir="false" />
+    <list default="true" id="f9135633-cf74-4b4f-9422-0752c7adea04" name="更改" comment="feat:添加brand链接">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/sql/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/sql/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/p/brighten-sql/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/p/brighten-sql/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/page/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/page/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/post/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/post/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/search/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/search/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/sql/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/sql/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/zh-cn/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/zh-cn/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/zh-cn/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/zh-cn/categories/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/zh-cn/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/zh-cn/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/zh-cn/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/zh-cn/tags/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,8 +66,8 @@
       <window_info id="Commit_Guest" show_stripe_button="false" />
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.19911504" />
-      <window_info active="true" id="Commit" order="1" visible="true" weight="0.19911504" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19911504" />
+      <window_info id="Commit" order="1" weight="0.19911504" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="TypeScript" />
@@ -91,7 +76,7 @@
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.32962245" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.33446273" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.33446273" />
       <window_info anchor="bottom" id="Services" order="4" weight="0.32962245" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.32962245" />
       <window_info anchor="right" id="Endpoints" />
@@ -156,7 +141,8 @@
     <MESSAGE value="feat:配置搜索" />
     <MESSAGE value="feat:配置自动部署并刷新dns" />
     <MESSAGE value="feat:更改配置" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat:更改配置" />
+    <MESSAGE value="feat:添加brand链接" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat:添加brand链接" />
     <option name="NON_MODAL_COMMIT_POSTPONE_SLOW_CHECKS" value="false" />
   </component>
   <component name="VgoProject">

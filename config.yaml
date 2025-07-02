@@ -15,18 +15,18 @@ hasCJKLanguage: false
 languages:
   en:
     languageName: English
-    title: Better Byte
+    title: 字节的乐趣
     weight: 1
     params:
       sidebar:
         subtitle: Hi there ! 🫵 Welcome to my blog
-  zh-cn:
-    languageName: 中文
-    title: 字节的乐趣
-    weight: 2
-    params:
-      sidebar:
-        subtitle: Hi there ! 🫵 Welcome to my blog
+#  zh-cn:
+#    languageName: 中文
+#    title: 字节的乐趣
+#    weight: 2
+#    params:
+#      sidebar:
+#        subtitle: Hi there ! 🫵 Welcome to my blog
 
 services:
   # Change it to your Disqus shortname before using
